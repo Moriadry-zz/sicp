@@ -1,0 +1,3 @@
+# sicp
+
+my sicp exercises
